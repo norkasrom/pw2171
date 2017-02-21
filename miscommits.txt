@@ -1,0 +1,11 @@
+commit 132e0b800cbd6abad08c5ccba9a44136825f0876
+Author: norkasrom <norkasrom@gmail.com>
+Date:   Thu Feb 16 14:30:01 2017 -0700
+
+    primer commit
+
+commit ee69a507950cfd82b19263c8fae4ef089ce123f5
+Author: norkasrom <norkasrom@gmail.com>
+Date:   Wed Feb 15 14:22:56 2017 -0700
+
+    primer commit
