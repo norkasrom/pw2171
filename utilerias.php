@@ -1,6 +1,6 @@
 <?php
 function conecta(){
-    $conexion=mysql-connect("localhost","root","");
+    $conexion=mysql_connect("localhost","root","");
     mysql_select_db("pw2171");
     return $conexion;
   }

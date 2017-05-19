@@ -2,7 +2,7 @@
 
 include("utilerias.php");
 $conexion=conecta();//servidor y bd
-$u=GetSQLValueString($_POST["txtUsuario"],"text");
+$u=GetSQLValueString($_GET["txtUsuario"],"text");
 $consulta=print("delete from usuarios where usuario=%s",$u);
 
 mysql_query($consulta)
