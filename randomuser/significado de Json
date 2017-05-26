@@ -1,0 +1,14 @@
+JSON=JavScrip Objet Notation
+
+conjunto:[
+llave=valor,
+llave2=valor,
+llave3:{
+	llave4:valor,
+	llave:valor
+},
+]
+
+llave=valor,
+llave2=valor,
+llave3:{

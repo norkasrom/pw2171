@@ -1,0 +1,55 @@
+{body
+{
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 1024;
+	min-width: 1024;
+	background: #265D8E;
+	border: 4px solid white;
+
+}
+header
+{
+	text-align: center;
+}
+header nav
+{
+	text-align: right;
+	background: #ECECEE;
+	margin-left:2px;
+	margin-right: 3px;
+	padding: 6px 23px 6px 0px;
+	vertical-align: middle;
+
+}
+section
+{
+	display: inline-block;
+	vertical-align: top;
+}
+#seccion01
+{
+ border: 1px solid red; 
+ display: inline-block;
+ vertical-align: top;
+}
+#barras
+{
+
+}
+#ajustes
+{
+  width: 55px;
+}
+#logo
+{
+	height: 70px;
+}
+#mensajes
+{
+	width: 60px;
+}
+#notificaciones
+{
+	width: 77px;
+}
