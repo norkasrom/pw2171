@@ -10,7 +10,11 @@ let PantallaPrincipal;
 function muestraPantallaPrincipal(){
 	PantallaPrincipal = new BrowserWindow({
 		width:320,
+<<<<<<< HEAD
 		height:475
+=======
+		height:425
+>>>>>>> master
 	})
 	PantallaPrincipal.on('closed',function(){
 		PantallaPrincipal = null;
@@ -25,4 +29,8 @@ function muestraPantallaPrincipal(){
 
 //La aplicacion ejecuta este evento cuando 
 //el archivo main.js se carga en memoria
+<<<<<<< HEAD
 app.on('ready',muestraPantallaPrincipal)
+=======
+app.on('ready',muestraPantallaPrincipal)
+>>>>>>> master

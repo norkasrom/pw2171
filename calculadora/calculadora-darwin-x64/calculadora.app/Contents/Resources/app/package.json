@@ -1,13 +1,18 @@
 {
   "name": "calculadora",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Calculadora Básica PW",
+=======
+  "description": "Calculadora Basica PW",
+>>>>>>> master
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+<<<<<<< HEAD
     "Calculadora",
     "basica",
     "pw",
@@ -18,6 +23,17 @@
   "devDependencies": {
     "electron": "^1.6.2",
     "electron-packager": "^8.6.0",
+=======
+    "calculadora",
+    "basica",
+    "PW",
+    "electron"
+  ],
+  "author": "Nora Kassandra Rodriguiez Mendoza",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^1.6.2",
+>>>>>>> master
     "electron-require": "^0.3.0"
   }
 }
