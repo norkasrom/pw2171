@@ -1,0 +1,181 @@
+body
+{
+	font-size: 16px;
+	max-width: 1024px;
+	min-width: 1024px;
+	margin:0 auto;
+}
+header
+{
+	background: #B3D8EB;
+}
+header nav
+{
+	padding-bottom: 50px;
+	
+}
+header nav li
+{ 
+	display: inline-block;
+	padding-left: 25px;
+	border-radius: 5px;
+	font-size: 1em;
+	font-weight: bold;
+
+}
+form
+{
+	float:right;
+	margin-top: -24px;
+	margin-right: 10px;
+}
+form input [type="search"]
+{
+	text-align: right;
+	
+}
+form input
+{
+	border-radius: 5px;
+}
+form input[type="button"]
+{
+	background: green;
+	color: white;
+}
+#secc1 input
+{
+	margin-left: 150px;
+	color:blue;
+}
+#art1
+{
+	margin-top: 10px;
+	width: 100%;
+
+}
+#art2
+{
+	margin-bottom: 30px;
+  display: inline-block;
+  width: 29%;
+  margin-left: 5px;
+  margin-right: 10PX;
+
+ 
+ 
+}
+#art3
+{
+	
+   display: inline-block;
+   width: 29%;
+   margin-left: 20px;
+    vertical-align: top;
+  
+}
+#art4
+{
+	
+   display: inline-block;
+    width: 26%;
+    margin-left: 40PX;
+  
+    vertical-align: top;
+    
+}
+#imgslide
+{
+	width:100%; 
+}
+#video
+{
+
+	width: 100%;
+}
+#lista
+{
+	background: rgb(18,97,243);
+	border-radius: 5px;
+	margin-top:-30px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	color: white;
+
+	
+}
+
+#logo
+{
+	width: 25%
+	margin-top: -100px;
+	position: relative;
+}
+#resplandor
+{
+	margin-top: -100px;
+	width: 75%;
+	margin-bottom: 32px;
+}
+.unasecc
+{
+	
+	font-size: 3em;
+    font-weight: bold;
+   
+}
+.otra
+{
+
+	font-size: 2em;
+    font-weight: bold
+}
+.video
+{
+	font-size: 2em;
+	font-weight: bold;
+}
+
+#cuadroazul
+{
+	background: #3D475B  ;
+	width: 25%;
+	margin: 10px;
+	height: 80%;
+	border-radius: 5px;
+	margin-top:-80px;
+
+}
+#cuadroazul2
+{
+	background: #3D475B  ;
+	width: 25%;
+	height: 80%;
+	border-radius: 5px;
+	margin-left: 270px;
+	
+	margin-top: -85px;
+	padding-bottom: 75px;
+	
+}
+.ultima
+{
+	color: white;
+	font-size: 2em;
+	text-align: right;
+	font-weight: bold;
+
+}
+#fondo
+{
+	padding-top: 50px;
+
+}
+#ultfondo
+{
+	width: 100%;
+    height: 90px;
+	background:#182B3A;
+	
+
+}

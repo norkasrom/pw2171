@@ -1,0 +1,190 @@
+body{
+	margin: 0 auto;
+	font-size: 16px;
+	font-family:segoe ui;
+	max-width: 1024px;
+	min-width: 1024px;
+	background: rgb(43,43,43)
+}
+header{
+	margin-top: 3px;
+	padding-bottom: 20px;
+	background: #ECECEE;
+}
+header article{
+	display: inline-block;
+	vertical-align: top;
+}
+#bus{
+	text-align: right;
+	width: 30%;
+	padding-top: 3px;
+}
+#contact{
+	margin-right: 25px;
+	margin-left: 10px;
+}
+
+#cuadritos article{
+	display: inline-block;
+	vertical-align: top;
+}
+#cuadroverde{
+	background: rgb(180,208,82);
+	/*padding-right: 16px;*/
+	    margin-left: 165px;
+}
+#cuadrogris{
+	background: rgb(84,84,84);
+	/*margin-left: -4px;*/
+	/*padding-right: 16px;*/
+}
+#cuadrorojo{
+	background: rgb(212,45,63);
+	/*margin-left: -4px;*/
+	/*padding-right: 13px;*/
+}
+#cuadrogrisito{
+	background: rgb(228,228,228);
+	/*margin-left: -7px;*/
+	/*padding-right: 16px;*/
+}
+
+#cuadrogrisito,#cuadrorojo,#cuadrogris{
+	margin-left: -4px;
+	padding-right: 3px;
+}
+#cuadrogris,#cuadrorojo,#cuadrogrisito,#cuadroverde{
+	/*padding-left: 5px;*/
+}
+#lateral ul{
+	padding-top: 10px;
+}
+#lateral ul li{
+	color: #6A6361;
+	list-style: none;
+	padding: 0px 0px 10px 30px;
+}
+#lateral ul li span{
+	color: white;
+}
+#links{
+	margin-left: 10px;
+}
+#logo{
+	width: 100%;
+}
+#menu{
+	width: 100%;
+}
+
+#men{
+	margin-left: 20px;
+	width: 65%;
+}
+#news{
+	margin-left: 10px;
+}
+#seccion1{
+	background: rgb(43,43,43);
+	height: 280px;
+}
+#seccion1 article{
+    vertical-align: top;
+    display: inline-block;
+    width: 15%;
+    height: 280px;
+    padding-left: 10px;
+    /* margin-left: 30px; */
+}
+#seccion2{
+	text-align: center;
+	background: rgb(43,43,43);
+}
+#seccion2 article{
+	display: inline-block;
+	vertical-align: top;
+	
+}
+#titrojo{
+	width: 230px;
+}
+#titverde{
+	width: 230px;
+}
+#titgris{
+	width: 237px;
+}
+#txtcontacto{
+	width: 100%;
+}
+#txtlinks{
+	width: 100%;
+}
+#txtlinks ul{
+	list-style: none;
+}
+#txtlinks ul li{
+	padding-bottom: 7px;
+}
+.foot{
+	text-align: left;
+	width: 31%;
+	margin-left: 2px;
+}
+.hrabajo{
+	border: 1px dashed rgb(150,150,150);
+}
+.hrarriba{
+	border: 1px solid rgb(68,68,68);
+}
+.correo{
+	color: rgb(73,109,128);
+}
+.gris{
+	color: rgb(124,124,124);
+}
+.info{
+	width: 22%;
+
+}
+.more{
+	font-weight: bold;
+	color:white;
+	font-size: 0.8em;
+}
+.read{
+	color: rgb(205,205,205);
+	text-align: right;
+}
+.titblanco {
+    font-weight: bold;
+    color: white;
+    font-size: 1.5em;
+}
+.titgris{
+	width: 100%;
+	font-weight: bold;
+	color: rgb(120,120,120);
+	font-size: 1.3em;
+}
+.texto{
+	color: rgb(143,143,143);
+}
+.txtblanco{
+	color: white;
+	font-size: .8em;
+}
+.txtgris{
+	color: rgb(120,120,120);
+	font-size: .8em;
+}
+.txttit{
+	color: rgb(176,176,176);
+}
+.tit{
+	width: 100%;
+	text-align: right;
+	vertical-align: middle;
+	padding: 8px 0px 0px 0px;
+}
